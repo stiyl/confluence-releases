@@ -1,8 +1,34 @@
 {
  "updater": 1,
- "version": "0.27.2",
- "manifest": "manifests/0.27.2.json",
- "pck_size": 338620848,
- "pck_sha256": "8f6fb6a1189cb5081b7edf8ca2077c1153bc10a00dd4b1a730970b6234b4089e",
- "published": "2026-11-02T17:30:13Z"
+ "version": "0.28.0",
+ "manifest": "manifests/0.28.0.json",
+ "pck_size": 338628896,
+ "pck_sha256": "b78322d096d7b44c4d32addef7753a5a25155f106d0f5e45a1713b542456c6d3",
+ "platforms": {
+  "windows": {
+   "version": "0.28.0",
+   "manifest": "manifests/0.28.0.json",
+   "pck_size": 338628896,
+   "pck_sha256": "b78322d096d7b44c4d32addef7753a5a25155f106d0f5e45a1713b542456c6d3"
+  },
+  "linux_x86_64": {
+   "version": "0.28.0",
+   "manifest": "manifests/linux_x86_64/0.28.0.json",
+   "pck_size": 338628896,
+   "pck_sha256": "b78322d096d7b44c4d32addef7753a5a25155f106d0f5e45a1713b542456c6d3"
+  },
+  "linux_arm64": {
+   "version": "0.28.0",
+   "manifest": "manifests/linux_arm64/0.28.0.json",
+   "pck_size": 338628896,
+   "pck_sha256": "b78322d096d7b44c4d32addef7753a5a25155f106d0f5e45a1713b542456c6d3"
+  },
+  "macos": {
+   "version": "0.28.0",
+   "manifest": "manifests/macos/0.28.0.json",
+   "pck_size": 338628896,
+   "pck_sha256": "b78322d096d7b44c4d32addef7753a5a25155f106d0f5e45a1713b542456c6d3"
+  }
+ },
+ "published": "2026-11-02T18:40:31Z"
 }
