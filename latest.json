@@ -1,8 +1,8 @@
 {
  "updater": 1,
- "version": "0.25.5",
- "manifest": "manifests/0.25.5.json",
- "pck_size": 331557824,
- "pck_sha256": "c839308a448bff7dca8679d76a78ba492c67d5258b8052d48ace32025bedc17e",
- "published": "2026-11-02T03:50:10Z"
+ "version": "0.26.0",
+ "manifest": "manifests/0.26.0.json",
+ "pck_size": 331581168,
+ "pck_sha256": "78a0ff5659da9c2818f4bc5a0539f2851dde55847a6deab705d4ecf08f351177",
+ "published": "2026-11-02T07:57:45Z"
 }
