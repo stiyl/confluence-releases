@@ -1,34 +1,34 @@
 {
  "updater": 1,
- "version": "0.34.1",
- "manifest": "manifests/0.34.1.json",
- "pck_size": 342640544,
- "pck_sha256": "0c5e29d81d3fe5c6c80a6ecbe7fbc8afdcfe462c658c11cd719b0b4acbd314ba",
+ "version": "0.34.2",
+ "manifest": "manifests/0.34.2.json",
+ "pck_size": 342640704,
+ "pck_sha256": "dadc432c309910e8ee6376362afc35d27945377c87f6000d669e4c332dc2a459",
  "platforms": {
   "windows": {
-   "version": "0.34.1",
-   "manifest": "manifests/0.34.1.json",
-   "pck_size": 342640544,
-   "pck_sha256": "0c5e29d81d3fe5c6c80a6ecbe7fbc8afdcfe462c658c11cd719b0b4acbd314ba"
+   "version": "0.34.2",
+   "manifest": "manifests/0.34.2.json",
+   "pck_size": 342640704,
+   "pck_sha256": "dadc432c309910e8ee6376362afc35d27945377c87f6000d669e4c332dc2a459"
   },
   "linux_x86_64": {
-   "version": "0.34.1",
-   "manifest": "manifests/linux_x86_64/0.34.1.json",
-   "pck_size": 342640544,
-   "pck_sha256": "0c5e29d81d3fe5c6c80a6ecbe7fbc8afdcfe462c658c11cd719b0b4acbd314ba"
+   "version": "0.34.2",
+   "manifest": "manifests/linux_x86_64/0.34.2.json",
+   "pck_size": 342640704,
+   "pck_sha256": "dadc432c309910e8ee6376362afc35d27945377c87f6000d669e4c332dc2a459"
   },
   "linux_arm64": {
-   "version": "0.34.1",
-   "manifest": "manifests/linux_arm64/0.34.1.json",
-   "pck_size": 342639088,
-   "pck_sha256": "15ca807be0e768d2d55601e4a17e431982174855ad0e5caa81be61870a8a82c0"
+   "version": "0.34.2",
+   "manifest": "manifests/linux_arm64/0.34.2.json",
+   "pck_size": 342639248,
+   "pck_sha256": "48034e38a8cdc94c7bfc40ce831c14e6908d70a20c12aadde9504acde8235f25"
   },
   "macos": {
-   "version": "0.34.1",
-   "manifest": "manifests/macos/0.34.1.json",
-   "pck_size": 342640544,
-   "pck_sha256": "0c5e29d81d3fe5c6c80a6ecbe7fbc8afdcfe462c658c11cd719b0b4acbd314ba"
+   "version": "0.34.2",
+   "manifest": "manifests/macos/0.34.2.json",
+   "pck_size": 342640704,
+   "pck_sha256": "dadc432c309910e8ee6376362afc35d27945377c87f6000d669e4c332dc2a459"
   }
  },
- "published": "2026-11-03T22:12:56Z"
+ "published": "2026-11-03T22:30:30Z"
 }
