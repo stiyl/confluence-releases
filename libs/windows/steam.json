@@ -1,0 +1,16 @@
+{
+ "files": [
+  {
+   "name": "libgodotsteam.windows.template_release.x86_64.dll",
+   "sha256": "c591649848f6804c3bd7eea4d204f32738bbbc39195f3bff20fc92b6a4077f40",
+   "size": 2488832,
+   "path": "libs/windows/libgodotsteam.windows.template_release.x86_64.dll"
+  },
+  {
+   "name": "steam_api64.dll",
+   "sha256": "e082bf5c9f881c822b1540a76b74f9d15e18019a73ebd206a559595badcb7f65",
+   "size": 319584,
+   "path": "libs/windows/steam_api64.dll"
+  }
+ ]
+}
