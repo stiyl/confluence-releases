@@ -1,34 +1,34 @@
 {
  "updater": 1,
- "version": "0.42.1",
- "manifest": "manifests/0.42.1.json",
- "pck_size": 352457472,
- "pck_sha256": "364a02c6fe4abd626af50f5e934bc37219048d2a29fd0db8681b631e149951fb",
+ "version": "0.43.0",
+ "manifest": "manifests/0.43.0.json",
+ "pck_size": 335384032,
+ "pck_sha256": "f1b424ef2108932bd69768f015ddbf9d28b51b8a48fcbaad9014627c9da28a20",
  "platforms": {
   "windows": {
-   "version": "0.42.1",
-   "manifest": "manifests/0.42.1.json",
-   "pck_size": 352457472,
-   "pck_sha256": "364a02c6fe4abd626af50f5e934bc37219048d2a29fd0db8681b631e149951fb"
+   "version": "0.43.0",
+   "manifest": "manifests/0.43.0.json",
+   "pck_size": 335384032,
+   "pck_sha256": "f1b424ef2108932bd69768f015ddbf9d28b51b8a48fcbaad9014627c9da28a20"
   },
   "linux_x86_64": {
-   "version": "0.42.1",
-   "manifest": "manifests/linux_x86_64/0.42.1.json",
-   "pck_size": 352457472,
-   "pck_sha256": "364a02c6fe4abd626af50f5e934bc37219048d2a29fd0db8681b631e149951fb"
+   "version": "0.43.0",
+   "manifest": "manifests/linux_x86_64/0.43.0.json",
+   "pck_size": 335384032,
+   "pck_sha256": "f1b424ef2108932bd69768f015ddbf9d28b51b8a48fcbaad9014627c9da28a20"
   },
   "linux_arm64": {
-   "version": "0.42.1",
-   "manifest": "manifests/linux_arm64/0.42.1.json",
-   "pck_size": 352456016,
-   "pck_sha256": "4121edf58119763f6fcaa15bf5934b90fe66848421bba5d889879214cfccf467"
+   "version": "0.43.0",
+   "manifest": "manifests/linux_arm64/0.43.0.json",
+   "pck_size": 335382576,
+   "pck_sha256": "01450673044feb9c28394e956c55eb394cc483dadf6163f9445536075c844128"
   },
   "macos": {
-   "version": "0.42.1",
-   "manifest": "manifests/macos/0.42.1.json",
-   "pck_size": 352457472,
-   "pck_sha256": "364a02c6fe4abd626af50f5e934bc37219048d2a29fd0db8681b631e149951fb"
+   "version": "0.43.0",
+   "manifest": "manifests/macos/0.43.0.json",
+   "pck_size": 335384032,
+   "pck_sha256": "f1b424ef2108932bd69768f015ddbf9d28b51b8a48fcbaad9014627c9da28a20"
   }
  },
- "published": "2026-11-08T11:10:13Z"
+ "published": "2026-11-08T19:11:12Z"
 }
