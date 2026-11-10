@@ -1,34 +1,34 @@
 {
  "updater": 1,
- "version": "0.47.3",
- "manifest": "manifests/0.47.3.json",
- "pck_size": 370581168,
- "pck_sha256": "3b7a66506b6a4acc7bea5194ed3a33329e573cff101040d15a1858ac0e4bff8c",
+ "version": "0.47.4",
+ "manifest": "manifests/0.47.4.json",
+ "pck_size": 370584000,
+ "pck_sha256": "9e2cf72842a94337451c9803a81937cf038dd077f58d909906e6223056eabafa",
  "platforms": {
   "windows": {
-   "version": "0.47.3",
-   "manifest": "manifests/0.47.3.json",
-   "pck_size": 370581168,
-   "pck_sha256": "3b7a66506b6a4acc7bea5194ed3a33329e573cff101040d15a1858ac0e4bff8c"
+   "version": "0.47.4",
+   "manifest": "manifests/0.47.4.json",
+   "pck_size": 370584000,
+   "pck_sha256": "9e2cf72842a94337451c9803a81937cf038dd077f58d909906e6223056eabafa"
   },
   "linux_x86_64": {
-   "version": "0.47.3",
-   "manifest": "manifests/linux_x86_64/0.47.3.json",
-   "pck_size": 370581168,
-   "pck_sha256": "3b7a66506b6a4acc7bea5194ed3a33329e573cff101040d15a1858ac0e4bff8c"
+   "version": "0.47.4",
+   "manifest": "manifests/linux_x86_64/0.47.4.json",
+   "pck_size": 370584000,
+   "pck_sha256": "9e2cf72842a94337451c9803a81937cf038dd077f58d909906e6223056eabafa"
   },
   "linux_arm64": {
-   "version": "0.47.3",
-   "manifest": "manifests/linux_arm64/0.47.3.json",
-   "pck_size": 370579712,
-   "pck_sha256": "da0a5748e71a20c12f79d95f8373f4534b09f937e79f1986212f3a3c9f77c027"
+   "version": "0.47.4",
+   "manifest": "manifests/linux_arm64/0.47.4.json",
+   "pck_size": 370582544,
+   "pck_sha256": "a4036ef74b05a096e3f5e9aab322a077c9594374a292e2ff4bb064e144c2a6fe"
   },
   "macos": {
-   "version": "0.47.3",
-   "manifest": "manifests/macos/0.47.3.json",
-   "pck_size": 370581168,
-   "pck_sha256": "3b7a66506b6a4acc7bea5194ed3a33329e573cff101040d15a1858ac0e4bff8c"
+   "version": "0.47.4",
+   "manifest": "manifests/macos/0.47.4.json",
+   "pck_size": 370584000,
+   "pck_sha256": "9e2cf72842a94337451c9803a81937cf038dd077f58d909906e6223056eabafa"
   }
  },
- "published": "2026-11-10T03:38:33Z"
+ "published": "2026-11-10T04:20:20Z"
 }
