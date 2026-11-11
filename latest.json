@@ -1,34 +1,34 @@
 {
  "updater": 1,
- "version": "0.49.4",
- "manifest": "manifests/0.49.4.json",
- "pck_size": 374975648,
- "pck_sha256": "4e6dbb474dfa881ca3902127628e683461923feebaa73c0a260a39a80fb6d05d",
+ "version": "0.49.5",
+ "manifest": "manifests/0.49.5.json",
+ "pck_size": 375152832,
+ "pck_sha256": "f0ba4518e9253ad6eedb1bf2fdafe1780891712bebb3ee955bce417e7229c382",
  "platforms": {
   "windows": {
-   "version": "0.49.4",
-   "manifest": "manifests/0.49.4.json",
-   "pck_size": 374975648,
-   "pck_sha256": "4e6dbb474dfa881ca3902127628e683461923feebaa73c0a260a39a80fb6d05d"
+   "version": "0.49.5",
+   "manifest": "manifests/0.49.5.json",
+   "pck_size": 375152832,
+   "pck_sha256": "f0ba4518e9253ad6eedb1bf2fdafe1780891712bebb3ee955bce417e7229c382"
   },
   "linux_x86_64": {
-   "version": "0.49.4",
-   "manifest": "manifests/linux_x86_64/0.49.4.json",
-   "pck_size": 374975648,
-   "pck_sha256": "4e6dbb474dfa881ca3902127628e683461923feebaa73c0a260a39a80fb6d05d"
+   "version": "0.49.5",
+   "manifest": "manifests/linux_x86_64/0.49.5.json",
+   "pck_size": 375152832,
+   "pck_sha256": "f0ba4518e9253ad6eedb1bf2fdafe1780891712bebb3ee955bce417e7229c382"
   },
   "linux_arm64": {
-   "version": "0.49.4",
-   "manifest": "manifests/linux_arm64/0.49.4.json",
-   "pck_size": 374974192,
-   "pck_sha256": "ce582f4b0b75853d438fa809edffab89d5f69171331367d8d035eae6b0d87dd4"
+   "version": "0.49.5",
+   "manifest": "manifests/linux_arm64/0.49.5.json",
+   "pck_size": 375151376,
+   "pck_sha256": "a3f167b7197cd5d14770383e2c3a9f7ddc819e2f15d854de999721846123c7cc"
   },
   "macos": {
-   "version": "0.49.4",
-   "manifest": "manifests/macos/0.49.4.json",
-   "pck_size": 374975648,
-   "pck_sha256": "4e6dbb474dfa881ca3902127628e683461923feebaa73c0a260a39a80fb6d05d"
+   "version": "0.49.5",
+   "manifest": "manifests/macos/0.49.5.json",
+   "pck_size": 375152832,
+   "pck_sha256": "f0ba4518e9253ad6eedb1bf2fdafe1780891712bebb3ee955bce417e7229c382"
   }
  },
- "published": "2026-11-11T14:52:39Z"
+ "published": "2026-11-11T16:55:37Z"
 }
